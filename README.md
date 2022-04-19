@@ -1,5 +1,5 @@
 
-  <img align="center" width="800px" height="350px" src="https://raw.githubusercontent.com/tarun10001/Tarun10001/main/tkfinalgif2.gif" alt="">
+  <img align="center" width="800px" height="310px" src="https://raw.githubusercontent.com/tarun10001/Tarun10001/main/tkfinalgif2.gif" alt="">
   <hr/>
 
 <h3><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
@@ -7,9 +7,9 @@
 <hr>
 
 
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">About me ....</h3>
 
-******
+
 
 Motivated, adaptable, and responsible Civil
 Engineer turned into a Full Stack Developer seeking a
@@ -32,9 +32,6 @@ dynamically works towards the growth of the organization.
 </p>
 
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
-
-<br>
-<br>
 
  <hr>
  <h4><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h4>
