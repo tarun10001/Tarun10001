@@ -34,7 +34,7 @@ dynamically works towards the growth of the organization.
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 
  <hr>
- <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My working tools..</h3>
+ <h3><img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="30px">&nbsp;My working tools..</h3>
 <p >
  <img height="35px" src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
  <img height="35px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
