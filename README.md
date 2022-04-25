@@ -60,7 +60,7 @@ dynamically works towards the growth of the organization.
 <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="60"><h3>GitHub's Stats</h3>
 </p>
 
-<p align="center" >
+<p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=tarun10001&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
