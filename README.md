@@ -60,11 +60,11 @@ dynamically works towards the growth of the organization.
 <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="60"><h3>GitHub's Stats</h3>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=tarun10001&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
-</p>
+</p> -->
  
-<p>
+<!-- <p>
 <a href="https://github.com/tarun10001"><span>
 <img align="left" height=150px src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun10001&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
 <img align="right" height=150px src="https://github-readme-stats.vercel.app/api?username=tarun10001&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
@@ -74,15 +74,30 @@ dynamically works towards the growth of the organization.
 <hr clear="both">
  <br/>
 
- <br/>
+ <br/>  -->
  
- <div>
-     <img  width=800px src="https://activity-graph.herokuapp.com/graph?username=tarun10001&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true" alt="">
- </div>
+ 
+
+<!--    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun10001&title_color=F9F933&text_color=FFFFFF&show_icons=true&icon_color=F9F933&include_all_commits=true&count_private=true&theme=dark"><br>  -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun10001&title_color=F9F933&text_color=FFFFFF&show_icons=true&icon_color=F9F933&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <br>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10001&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=F9F933&fire=6FDA44&ring=F9F933" alt="GitHub Streak Stats" height="200" />
+        <br>
+        <br>
+
+ 
+ 
+ #### Contribution Graph
+ 
+<!--  <div>
+     <img  width=800px src="https://activity-graph.herokuapp.com/graph?username=tarun10001&bg_color=000000&color=F9F933&line=F9F933&point=ffffff&area=true&hide_border=true" alt="">
+ </div> -->
+ 
+ 
+[![Tarun Kumawat's github activity graph](https://activity-graph.herokuapp.com/graph?username=tarun10001&bg_color=000000&color=F9F933&line=F9F933&point=ffffff&area=true&hide_border=true)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 
 
 <hr clear="both">
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
-  
