@@ -80,17 +80,17 @@ dynamically works towards the growth of the organization.
 
 <!--    <img align="center" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun10001&title_color=F9F933&text_color=FFFFFF&show_icons=true&icon_color=F9F933&include_all_commits=true&count_private=true&theme=dark"><br>  -->
   
-  <p align="center">
+<!--   <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun10001&title_color=F9F933&text_color=FFFFFF&show_icons=true&icon_color=F9F933&include_all_commits=true&count_private=true&theme=dark" width=500/></p>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10001&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=F9F933&fire=6FDA44&ring=F9F933" width=500/></p>
+ -->
 
 
-<!-- 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun10001&title_color=F9F933&text_color=FFFFFF&show_icons=true&icon_color=F9F933&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10001&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=F9F933&fire=6FDA44&ring=F9F933" alt="GitHub Streak Stats" height="200" /> -->
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10001&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=F9F933&fire=6FDA44&ring=F9F933" alt="GitHub Streak Stats" height="200" /> 
         <br>
         <br>
 
