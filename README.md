@@ -41,15 +41,19 @@ dynamically works towards the growth of the organization.
  <img height="35px" src="https://img.shields.io/badge/javascript%20-%23F7DF1.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
  <img height="35px" src="https://img.shields.io/badge/react%20-%23F7DF1E.svg?&style=for-the-badge&logo=react&logoColor=white&color=dcad11" />&nbsp;&nbsp;
  <br/>
+   <img height="35px" src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
+ <img height="35px" src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
+ <img height="35px" src="https://img.shields.io/badge/express%20-%23F7DF1.svg?&style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;  
+ <br/>
+   <br/>
  <img height="35px" src="https://img.shields.io/badge/Figma%20-%23F7DF1E.svg?&style=for-the-badge&color=41011c&logo=Figma&logoColor=white" />&nbsp;&nbsp;
  <img height="35px" src="https://img.shields.io/badge/Bootstrap%20-%23F7DF1E.svg?&style=for-the-badge&color=7044A3&logo=Bootstrap&logoColor=white" />&nbsp;&nbsp;
-
- <img height="35px" src="https://img.shields.io/badge/Node.js%20-%23F7DF1E.svg?&style=for-the-badge&color=6DB35A&logo=Node.js&logoColor=white" />&nbsp;&nbsp;
- <img height="35px" src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?&style=for-the-badge&color=f60c88&logo=MongoDB&logoColor=white" />&nbsp;&nbsp;
- <br/>
+<br/>
 
  <img height="35px" src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?&style=for-the-badge&color=blue&logo=Git&logoColor=white" />&nbsp;&nbsp;
- <img height="35px" src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />&nbsp;&nbsp;                      
+ <img height="35px" src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />&nbsp;&nbsp;  
+ <img height="35px" src="https://img.shields.io/badge/netlify%20-%23F7DF1.svg?&style=for-the-badge&logo=netlify&logoColor=white" />&nbsp;&nbsp;  
+  
 </p>
 <hr>
 
