@@ -53,7 +53,7 @@ dynamically works towards the growth of the organization.
 <br/>
   <br/>
 
- <img height="35px" src="https://img.shields.io/badge/GitHub%20-%23F7DF1E.svg?&style=for-the-badge&color=0c154d&logo=GitHub&logoColor=white" />  
+ <img height="35px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
  <img height="35px" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   
 </p>
