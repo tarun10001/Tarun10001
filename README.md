@@ -59,7 +59,6 @@ dynamically works towards the growth of the organization.
 </p>
 <hr>
 
-
  <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p>
