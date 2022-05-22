@@ -38,18 +38,24 @@ dynamically works towards the growth of the organization.
  <img align="left" height="35px" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img align="left" height="35px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  <img align="left" height="35px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-   <p align="right">
-  <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
-  <p/>
- <br/>
+  <br/>
   <br/>
    <img align="left" height="35px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- <img align="left" height="35px" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
- <img align="left" height="35px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+   <img align="left" height="35px" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img align="left" height="35px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
    <br/>
    <br/>
- <img align="left" height="35px" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
- <img align="left" height="35px" src="https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=F7DF1E" />
+  <img align="left" height="35px" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+  <img align="left" height="35px" src="https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=F7DF1E" />
+   
+  <p align="right">
+  <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
+  <p/>
+  
+ <br/>
+  <br/>  
+ 
+ 
    <br/>
    <br/>
  <img align="left" height="35px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />  
