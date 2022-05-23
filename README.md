@@ -18,7 +18,6 @@ dynamically works towards the growth of the organization.
  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 
  <hr>
-
  <h3><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="70" /><i>Let's Connect !!</i></h3>
  <p align="left">
  <a href="https://www.linkedin.com/in/tarun-kumawat/" target="blank"><img height="35px" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tarun-kumawat" /></a>
