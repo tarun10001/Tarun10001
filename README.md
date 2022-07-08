@@ -23,7 +23,8 @@ dynamically works towards the growth of the organization.
  <p align="left">
  <a href="https://www.linkedin.com/in/tarun-kumawat/" target="blank"><img height="35px" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tarun-kumawat" /></a>
    <a title="tarunkumawat19940@gmail.com" href="mailto:tarunkumawat1994@gmail.com" target="blank"><img height="35px" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="tarun-kumawat" /></a> 
-   <a title="tarunkumawat19940@gmail.com" href="https://twitter.com/Tk05601299?t=2t8iz4BTo7NfKs10gLgMFQ&s=09" target="blank"><img height="35px" align="center" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white " alt="tarun-kumawat" /></a> 
+   <a title="tarunkumawat19940@gmail.com" href="https://medium.com/@tarunkumawat1994" target="blank"><img height="35px" align="center" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white " alt="tarun-kumawat" /></a>
+      <a title="tarunkumawat19940@gmail.com" href="https://twitter.com/Tk05601299?t=2t8iz4BTo7NfKs10gLgMFQ&s=09" target="blank"><img height="35px" align="center" src="https://img.shields.io/badge/twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white " alt="tarun-kumawat" /></a>
 </p>
  <hr>
  
