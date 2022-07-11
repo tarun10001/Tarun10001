@@ -60,16 +60,16 @@ dynamically works towards the growth of the organization.
 <p>
 <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="60"><h3>GitHub's Stats</h3>
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun10001&title_color=FFFFFF&text_color=FF8071&show_icons=true&icon_color=FF8071&include_all_commits=true&count_private=true&theme=dark" height="200" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun10001&title_color=FFFFFF&text_color=54AEFF&show_icons=true&icon_color=54AEFF&include_all_commits=true&count_private=true&theme=dark" height="200" />
         <br>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10001&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=FFFFFF&fire=FF8071&ring=FF8071" alt="GitHub Streak Stats" height="200" /> 
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10001&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=FFFFFF&fire=54AEFF&ring=54AEFF" alt="GitHub Streak Stats" height="200" /> 
         <br>
         <br>
  
  
  #### Contribution Graph
  
-[![Tarun Kumawat's github activity graph](https://activity-graph.herokuapp.com/graph?username=tarun10001&&theme=xcode)](https://github.com/MrBlueBird2/github-readme-activity-graph)
+[![Tarun Kumawat's github activity graph](https://activity-graph.herokuapp.com/graph?username=tarun10001&bg_color=000000&color=54AEFF&line=54AEFF&point=54AEFF&area=true&hide_border=true)](https://github.com/MrBlueBird2/github-readme-activity-graph)
 <hr clear="both">
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>**I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!**</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
