@@ -10,7 +10,7 @@
 Motivated, adaptable, and responsible Civil
 Engineer turned into a Full Stack Developer seeking a
 position that utilizes technical and professional skills. Strong drive to see things to completion. Aiming to
-work with an organization that will help in showcasing
+work with an organization that will help me in showcasing
 my knowledge and skills following the latest
 technologies and be a part of a team that
 dynamically works towards the growth of the organization.
