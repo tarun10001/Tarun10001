@@ -2,7 +2,7 @@
   <hr/>
 
 <h3><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
-<h3><i>Happy Coding!</i> 😊</h3>
+<h3><i>Happy Coding!!</i> 😊</h3>
 <hr>
 
 <!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10px"> -->
