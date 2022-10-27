@@ -1,5 +1,5 @@
-<img align="center" width="800px" height="310px" src="https://raw.githubusercontent.com/tarun10001/Tarun10001/main/tkfinalgif2.gif" alt="">
-  <hr/>
+<!-- <img align="center" width="800px" height="310px" src="https://raw.githubusercontent.com/tarun10001/Tarun10001/main/tkfinalgif2.gif" alt=""> -->
+<!--   <hr/> -->
 
 <h3><samp><strong>You have finally discovered my Github profile. Please feel free  <br>  to clone/fork projects, raise issues and submit PRs if you think something could be better.</strong></samp></h3> 
 <h3><i>Happy Coding!!</i> 😊</h3>
@@ -40,15 +40,15 @@ dynamically works towards the growth of the organization.
   <br/>
   <br/>
    <img align="left" height="35px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-   <img align="left" height="35px" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img align="left" height="35px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<!--    <img align="left" height="35px" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
+<!--   <img align="left" height="35px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" /> -->
    <br/>
    <br/>
   <img align="left" height="35px" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />&nbsp;
   <img align="left" height="35px" src="https://img.shields.io/badge/bootstrap-323330?style=for-the-badge&logo=bootstrap&logoColor=F7DF1E" />&nbsp;
    <br/>
   <br/>  
-   <img align="left" height="35px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;
+<!--    <img align="left" height="35px" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp; -->
  <img align="left" height="35px" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />&nbsp;
 <br/>
    </p>
@@ -58,11 +58,12 @@ dynamically works towards the growth of the organization.
   
 <hr>
 <p>
-<img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="60"><h3>GitHub's Stats</h3>
+<img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="60">
+<!-- <h3>GitHub's Stats</h3> -->
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun10001&title_color=FFFFFF&text_color=54AEFF&show_icons=true&icon_color=54AEFF&include_all_commits=true&count_private=true&theme=dark" height="200" />
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun10001&title_color=FFFFFF&text_color=54AEFF&show_icons=true&icon_color=54AEFF&include_all_commits=true&count_private=true&theme=dark" height="200" />  -->
         <br>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10001&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=FFFFFF&fire=54AEFF&ring=54AEFF" alt="GitHub Streak Stats" height="200" /> 
+<!--         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun10001&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=FFFFFF&fire=54AEFF&ring=54AEFF" alt="GitHub Streak Stats" height="200" />  -->
         <br>
         <br>
  
